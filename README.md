@@ -11,9 +11,26 @@
     build_value if you gonna use this extension only for comparing the equality of objects then prefer to use this simple  solution
     instead of making the this complicated if you dont want to mess up with your code.After all that's your choice
        the simple solution is in build_value.dart file** _(just change your feilds and use this method )_.
-       
-       
-       
+  
+  
+  
+  
+  ### LOGIC
+
+  
+  
+```dart
+  
+           bool checkequality(SClass s, SClass c)
+          {
+              if (s.name == c.name && s.id == c.id && s.year == c.year)
+              {
+                  return true;
+              }
+              return false;
+          }
+```
+
 
 
                                                                                                             Thank You!
