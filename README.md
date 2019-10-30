@@ -32,5 +32,28 @@
 ```
 
 
+========================================================================================================================================
+
+
+
+
+
+
+# Here you can use this method to convert query to url form query
+
+```dart
+
+void main() {
+  
+  String search='Game Of Thrones';
+  
+  String modified = search.replaceAll(' ','%20');
+  
+  print(modified);
+}
+
+
+```
+
 
                                                                                                             Thank You!
