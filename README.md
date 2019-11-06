@@ -21,7 +21,7 @@
   
 ```dart
   
-           bool checkequality(SClass s, SClass c)
+           bool checkequality(dynamic s, dynamic c)
           {
               if (s.name == c.name && s.id == c.id && s.year == c.year)
               {
