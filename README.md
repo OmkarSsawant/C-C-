@@ -56,7 +56,8 @@
 
 
 
-# Here you can use this method to convert query to url form query
+#QUERY VALIDATOR:
+### Here you can use this method to convert query to url form query
 
 ```dart
 
