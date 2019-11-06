@@ -31,6 +31,24 @@
           }
 ```
 
+### WITH OPERATOR :
+
+
+
+
+```dart
+
+          bool operator ==(dynamic c)
+          {
+              if (name == c.name && id == c.id && year == c.year)
+              {
+                  return true;
+              }
+              return false;
+          }  
+
+```
+
 
 =============================================================================
 
