@@ -11,6 +11,7 @@
     build_value if you gonna use this extension only for comparing the equality of objects then prefer to use this simple  solution
     instead of making the this complicated if you dont want to mess up with your code.After all that's your choice
        the simple solution is in build_value.dart file** _(just change your feilds and use this method )_.
+       ###### if your project is larger then and then only I recomment build_value other wise dont make it complex
   
   
   
