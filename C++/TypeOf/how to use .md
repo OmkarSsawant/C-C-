@@ -7,7 +7,7 @@
 ### just copy and paste this file in your project directory just beside where you want to use it
 
 
-![look image image file example.PNG](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/example.PNG)
+![look image image file example..PNG](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/example..PNG)
 
 
 
