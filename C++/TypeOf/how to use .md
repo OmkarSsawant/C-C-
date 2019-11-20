@@ -1,4 +1,4 @@
-# TYPE OF 
+# TYPE OF IN C++
 
 
 ## now you can get the datatype of any variable including STL in C++
@@ -16,6 +16,6 @@
 ######  here in my case I am using Visual Studio Code
 
 
-![look image image file dir.PNG](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/dir.PNG)
+![look image image file path$dir.PNG](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/path%24dir.PNG)
 
 
