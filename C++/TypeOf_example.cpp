@@ -11,6 +11,7 @@ int main()
     vector<int>::iterator itr;
 
     cout<<_typename.gettypeof(itr)<<endl;
+    
     char *str;
 
     int *inp;
