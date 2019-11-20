@@ -10,7 +10,8 @@
 ![look image image file example..PNG](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/Assets/example.PNG)
 
 
-####  you have to compile this file every time you run the program and run this command :
+####  you have to compile this file every time you run :
+### use this command :
 
 ![g++ *.cpp](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/Assets/com.PNG)
 
