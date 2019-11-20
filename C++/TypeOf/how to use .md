@@ -19,3 +19,11 @@
 ![look image image file path$dir.PNG](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/path%24dir.PNG)
 
 
+####  you have to compile this file every time you run the program and run this command :
+
+![command] (https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/command.PNG)
+
+
+#### YEAH !!! now no need to include this file each time just include it as other
+
+
