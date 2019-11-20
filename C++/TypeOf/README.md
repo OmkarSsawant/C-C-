@@ -26,8 +26,8 @@
 
 
 
-###  If you dont want to include this file each time : 
-#####                                                    just paste 'typeof.h' file in your code editor include directory
+###  If you dont want to include this file each time and compile like that 👆    : 
+#####                                                    just paste 'typeof.h' file in your code editor include directory 👍
 
 
 
@@ -38,7 +38,7 @@
 
 ![look image image file path$dir.PNG](https://github.com/OmkarSsawant/Simple_Solutions/blob/master/C%2B%2B/TypeOf/Assets/path%24dir.PNG)
 
-#### its, All done you ready to go
+#### its, All done you ready to go   😎
 
 ##### just include this file  like every directory file
 
