@@ -139,8 +139,8 @@ int main()
 
 //just a sinnipet with which you can create sublinks 
 //eg . tag1.tag2.tag3~attr can be also called tag1.tag3~attr
+//use at line 104
 // ⚠️ caution not to use in submission code  
-
 /*
            int ldotIndex = key.find_last_of('.');
 
