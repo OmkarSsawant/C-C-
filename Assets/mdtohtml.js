@@ -1,8 +1,5 @@
-const fs = require('fs');
 
-var data = fs.readFileSync('Readme.md');
 
-var readme = String(data);
 const bStyle = /\s?\*{2}\b(.*)\b\*{2}/g;
 const iStyle = /\s?\*{1}\b(.*)\b\*{1}/g;
 const biStyle = /\s?\*{3}\b(.*)\b\*{3}/g;
